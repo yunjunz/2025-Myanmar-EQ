@@ -23,6 +23,9 @@ bbox:18,24,94,98
 | ![asc](./docs/loc_SenA.jpg) | ![dsc](./docs/loc_SenD.jpg) |
 
 + LuTan-1
+
+![](./docs/Lt1A.jpg)
+
 + ALOS-2
 + ALOS-4
 
