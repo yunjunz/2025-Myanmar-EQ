@@ -30,10 +30,10 @@ bbox:18,24,94,98
 
 #### 3D Co-seismic deformation via InSAR, MAI, speckle-tracking [王祎笛，胡长洋]
 
-+ S1_A143_20250327_20250408
-+ S1_A070_20250322_20250403
-+ S1_D106_20250324_20250405
-+ S1_D033_20250319_20250331
++ S1_A143_20250315(5frame)_20250327(5frame)_20250408 : /home/eedy/penguin/25EQ_myanmar/s1_a143
++ S1_A070_20250310(6frame)_20250322(6frame)_20250403 : /home/eedy/penguin/25EQ_myanmar/s1_a070
++ S1_D106_20250228(5frame)_20250324(5frame)_20250405 : /home/eedy/penguin/25EQ_myanmar/s1_d106
++ S1_D033_20250307(5frame)_20250319(5frame)_20250331 : /home/eedy/penguin/25EQ_myanmar/s1_d033
 
 #### Damage proxy map [杨延晨]
 
