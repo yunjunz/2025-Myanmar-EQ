@@ -8,12 +8,14 @@
   - 21.996°N, 95.926°E
   - 10.0 km depth
 
++ Temblor insights: https://temblor.net/earthquake-insights/magnitude-7-7-earthquake-strikes-near-mandalay-myanmar-16724/
+
 ### SAR
 
-+ Sentinel-1 asc track 143, 2014-10-27 to 2025-03-27 (280 acquisitions), post-eq acquisition: 2025-04-08
-+ Sentinel-1 asc track 070, 2014-10-10 to 2025-03-22 (273 acquisitions), post-eq acquisition: 2024-04-03
-+ Sentinel-1 dsc track 106, 2014-10-12 to 2025-03-24 (349 acquisitions), post-eq acquisition: 2025-04-05
-+ Sentinel-1 dsc track 033, 2014-10-07 to 2025-03-19 (284 acquisitions), post-eq acquisition: 2025-03-31
++ Sentinel-1 asc track 143, 2014-10-27 to 2025-03-27 (280 acquisitions), post-eq acquisition: 2025-04-08 (11:48)
++ Sentinel-1 asc track 070, 2014-10-10 to 2025-03-22 (273 acquisitions), post-eq acquisition: 2024-04-03 (11:39)
++ Sentinel-1 dsc track 106, 2014-10-12 to 2025-03-24 (349 acquisitions), post-eq acquisition: 2025-04-05 (23:33)
++ Sentinel-1 dsc track 033, 2014-10-07 to 2025-03-19 (284 acquisitions), post-eq acquisition: 2025-03-31 (23:25)
 
 | Sentinel-1 Asc orbits       | Sentinel-1 Desc orbits      |
 | --------------------------- | --------------------------- |
