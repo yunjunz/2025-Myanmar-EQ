@@ -15,7 +15,9 @@
 + Sentinel-1 dsc track 106, 2014-10-12 to 2025-03-24 (349 acquisitions), post-eq acquisition: 2025-04-05
 + Sentinel-1 dsc track 033, 2014-10-07 to 2025-03-19 (284 acquisitions), post-eq acquisition: 2025-03-31
 
-![SenA](../docs/loc_SenA.jpg)
+| Sentinel-1 Asc orbits       | Sentinel-1 Desc orbits      |
+| --------------------------- | --------------------------- |
+| ![asc](./docs/loc_SenA.jpg) | ![dsc](./docs/loc_SenD.jpg) |
 
 + LuTan-1
 + ALOS-2
