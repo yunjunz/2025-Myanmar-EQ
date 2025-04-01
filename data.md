@@ -10,6 +10,8 @@
 
 + Temblor insights: https://temblor.net/earthquake-insights/magnitude-7-7-earthquake-strikes-near-mandalay-myanmar-16724/
 
++ Bounding box in SNWE: 18, 23, 95, 97
+
 ### SAR
 
 + Sentinel-1 asc track 143, 2014-10-27 to 2025-03-27 (280 acquisitions), post-eq acquisition: 2025-04-08 (11:48)
