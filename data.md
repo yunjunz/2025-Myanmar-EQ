@@ -51,11 +51,17 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 #### ALOS-4
 
 ### 2. Damage proxy map [杨延晨]
+
 Current existing products and reports：
+
 Conperniscus EMS MAP: https://rapidmapping.emergency.copernicus.eu/EMSR798/reporting
+
 DOWNLOAD:https://mapping.emergency.copernicus.eu/activations/EMSR798/
+
 Microsoft’s philanthropic AI for Good Lab:https://satelliteimagerydemostg.z5.web.core.windows.net/damage-assessment/mandalay_earthquake_3_29_2025.html
+NEWS FROM WECHAT:
 https://mp.weixin.qq.com/s/JEBrEWKw4GEBSOgp2YPJVA
+
 https://mp.weixin.qq.com/s/1vFoOZ3IppsrysVS3LoHEA
 #### Damage proxy map result
 + 3 SLCs: 2 before EQ, 1 after EQ
