@@ -1,4 +1,4 @@
-## SAR and GNSS data
+![ce7d226d07a865a6e20750dd43fa0b8](https://github.com/user-attachments/assets/644c77d1-09ca-42e2-a6be-8b25075dc757)## SAR and GNSS data
 
 ### Basic info
 
@@ -51,8 +51,21 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 #### ALOS-4
 
 ### 2. Damage proxy map [杨延晨]
-
+Current existing products and reports：
+Conperniscus EMS MAP: https://rapidmapping.emergency.copernicus.eu/EMSR798/reporting
+DOWNLOAD:https://mapping.emergency.copernicus.eu/activations/EMSR798/
+Microsoft’s philanthropic AI for Good Lab:https://satelliteimagerydemostg.z5.web.core.windows.net/damage-assessment/mandalay_earthquake_3_29_2025.html
+https://mp.weixin.qq.com/s/JEBrEWKw4GEBSOgp2YPJVA
+https://mp.weixin.qq.com/s/1vFoOZ3IppsrysVS3LoHEA
+#### Damage proxy map result
 + 3 SLCs: 2 before EQ, 1 after EQ
+Result(s1_d033 multilook:15*5 FROM eedy √):![340aadc3-7f2b-4555-82c1-1ac248bd055a](https://github.com/user-attachments/assets/7b22b9e4-8620-4f4c-9f8b-2c94f250ee9c)
+![d98db5a0-1c49-4d03-970e-d9a6bf203806](https://github.com/user-attachments/assets/9feb627b-21e9-450d-be66-4f49eec0bc43)
+/penguin/yangyanchen/25EQ_myanmar/s1_d033/co/phsig.cor_score.tif
+/penguin/yangyanchen/25EQ_myanmar/s1_d033/co/phsig.cor_score_norm_mask.tif
+
+Details:/penguin/yangyanchen/25EQ_myanmarDPM.ipynb
+
 
 ### 3. Interseismic deformation via MAI time series [梁存任; old priority]
 
