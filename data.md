@@ -1,4 +1,4 @@
-![ce7d226d07a865a6e20750dd43fa0b8](https://github.com/user-attachments/assets/644c77d1-09ca-42e2-a6be-8b25075dc757)## SAR and GNSS data
+## SAR and GNSS data
 
 ### Basic info
 
