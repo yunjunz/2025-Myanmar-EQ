@@ -10,7 +10,7 @@
 
 + Temblor insights: https://temblor.net/earthquake-insights/magnitude-7-7-earthquake-strikes-near-mandalay-myanmar-16724/
 
-+ Bounding box in SNWE: 18, 23, 95, 97
++ Bounding box in SNWE (6.5 x 3): 16.8, 23.3, 94.5, 97.5
 
 ### 1. Co-seismic deformation [王祎笛，胡长洋]
 
