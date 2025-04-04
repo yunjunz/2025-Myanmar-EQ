@@ -66,7 +66,8 @@ https://mp.weixin.qq.com/s/1vFoOZ3IppsrysVS3LoHEA
 #### Damage proxy map result
 + 3 SLCs: 2 before EQ, 1 after EQ
 + 100km buffer distance from the earthquake center and affected fault. bbox in SNWE: 18.55, 22.95, 94.85, 97.05
-+ Result(s1_d033 multilook:9*3 √): with geo_phsig coherence. ![image.png](attachment:aeabc649-9568-4c05-84bd-40c2fc1fd8a8.png)![image.png](attachment:67e181d2-83eb-4eda-a9a2-1fc3fddb682f.png)
++ Result(s1_d033 multilook:9*3 √): with geo_phsig coherence.![download](https://github.com/user-attachments/assets/d543d5c5-59e4-442b-801c-0a64182300f7)
+
 + 
 ![c375fa57-d19e-43ac-9ac9-4204781ed82b](https://github.com/user-attachments/assets/b9bedc71-8a09-4e13-9701-f9fa6856aca8)
 
