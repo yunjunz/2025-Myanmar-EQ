@@ -65,10 +65,16 @@ https://mp.weixin.qq.com/s/JEBrEWKw4GEBSOgp2YPJVA
 https://mp.weixin.qq.com/s/1vFoOZ3IppsrysVS3LoHEA
 #### Damage proxy map result
 + 3 SLCs: 2 before EQ, 1 after EQ
-Result(s1_d033 multilook:15*5 FROM eedy √):![340aadc3-7f2b-4555-82c1-1ac248bd055a](https://github.com/user-attachments/assets/7b22b9e4-8620-4f4c-9f8b-2c94f250ee9c)
-![d98db5a0-1c49-4d03-970e-d9a6bf203806](https://github.com/user-attachments/assets/9feb627b-21e9-450d-be66-4f49eec0bc43)
-/penguin/yangyanchen/25EQ_myanmar/s1_d033/co/phsig.cor_score.tif
-/penguin/yangyanchen/25EQ_myanmar/s1_d033/co/phsig.cor_score_norm_mask.tif
++ 100km buffer distance from the earthquake center and affected fault. bbox in SNWE: 18.55, 22.95, 94.85, 97.05
++ Result(s1_d033 multilook:9*3 √): with geo_phsig coherence. ![image.png](attachment:aeabc649-9568-4c05-84bd-40c2fc1fd8a8.png)![image.png](attachment:67e181d2-83eb-4eda-a9a2-1fc3fddb682f.png)
++ 
+![c375fa57-d19e-43ac-9ac9-4204781ed82b](https://github.com/user-attachments/assets/b9bedc71-8a09-4e13-9701-f9fa6856aca8)
+
+![4750764b-9db3-48cd-a805-3a35f683f578](https://github.com/user-attachments/assets/7cef294b-b57f-444d-97bf-a1eaa463f511)
+
+/penguin/yangyanchen/25EQ_myanmar/s1_d033/co/merged/geo_phsig.cor_score.tif
+
+/penguin/yangyanchen/25EQ_myanmar/s1_d033/co/merged/geo_phsig.cor_score_norm_mask.tif
 
 Details:/penguin/yangyanchen/25EQ_myanmarDPM.ipynb
 
