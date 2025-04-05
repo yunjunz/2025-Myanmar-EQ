@@ -12,11 +12,16 @@
 
 + Bounding box in SNWE (6.5 x 3): 16.8, 23.3, 94.5, 97.5
 
+### References:
+
++ USGS: https://experience.arcgis.com/experience/e40a6967c3ea42dd85bf44037e05482b
++ ARIA: https://aria-share.jpl.nasa.gov/20250328_Myanmar_EQ/
+
 ### 1. Co-seismic deformation [王祎笛，胡长洋]
 
 Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 
-#### Sentinel-1
+#### 1.1 Sentinel-1
 
 + S1_A143_20250315_20250327_20250408: /home/eedy/penguin/25EQ_myanmar/s1_a143
 + S1_A070_20250310_20250322_20250403: /home/eedy/penguin/25EQ_myanmar/s1_a070 √
@@ -27,7 +32,7 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 | --------------------------- | --------------------------- |
 | ![asc](./docs/loc_SenA.jpg) | ![dsc](./docs/loc_SenD.jpg) |
 
-#### LuTan-1
+#### 1.2 LuTan-1
 
 + LT1_A052_B8_20240806_20250330
 + LT1_A059_B3_20250205_XXXXXXXX
@@ -46,9 +51,12 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 
 ![](./docs/Lt1A.jpg)
 
-#### ALOS-2
+#### 1.3 ALOS-2
 
-#### ALOS-4
+#### 1.4 Sentinel-2
+
+#### 1.5 Landsat
+
 
 ### 2. Damage proxy map [杨延晨]
 
