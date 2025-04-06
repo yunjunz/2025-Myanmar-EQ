@@ -16,6 +16,7 @@
 
 + USGS: https://experience.arcgis.com/experience/e40a6967c3ea42dd85bf44037e05482b
 + ARIA: https://aria-share.jpl.nasa.gov/20250328_Myanmar_EQ/
++ GSI: https://www.gsi.go.jp/cais/topic20250328-e_Myanmar.html
 
 ### 1. Co-seismic deformation [王祎笛，胡长洋]
 
