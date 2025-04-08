@@ -82,21 +82,31 @@ https://mp.weixin.qq.com/s/1vFoOZ3IppsrysVS3LoHEA
 + s1_a070 multilook:9*3 √
 + ): with geo_phsig coherence.![download](https://github.com/user-attachments/assets/d543d5c5-59e4-442b-801c-0a64182300f7)
 
-+  s1_d033 multilook:9*3 
-![c375fa57-d19e-43ac-9ac9-4204781ed82b](https://github.com/user-attachments/assets/b9bedc71-8a09-4e13-9701-f9fa6856aca8)
+combined s1_d033 with s1_d106, the DPM of the whole area is generated:
+/penguin/yangyanchen/25EQ_myanmar/s1_d106/co/merged/d106_phsig.cor_score_norm_mask.tif
+/penguin/yangyanchen/25EQ_myanmar/s1_d106/co/merged/d033_phsig.cor_score_norm_mask.tif
+with a mask map: Combined statistics - Mean: -0.0206, Std: 0.1509, Threshold: μ + 2σ  0.2812 
+MAP LOADING:/penguin/yangyanchen/25EQ_myanmar/DPM0408small.jpg AND /penguin/yangyanchen/25EQ_myanmar/DPM0408BIG.jpg
+![DPM0408small](https://github.com/user-attachments/assets/88abac4c-4b51-42ea-82cf-1aae857893f6)
 
-![4750764b-9db3-48cd-a805-3a35f683f578](https://github.com/user-attachments/assets/7cef294b-b57f-444d-97bf-a1eaa463f511)
+![DPM0408BIG](https://github.com/user-attachments/assets/6091f7a1-74b9-4bc6-ad98-1600837088e4)
+
+s1_d033 multilook:9*3 √
 
 /penguin/yangyanchen/25EQ_myanmar/s1_d033/co/merged/geo_phsig.cor_score.tif
-
 /penguin/yangyanchen/25EQ_myanmar/s1_d033/co/merged/geo_phsig.cor_score_norm_mask.tif
 
+ s1_d106 multilook:9*3 √
+
+/penguin/yangyanchen/25EQ_myanmar/s1_d106/co/merged/geo_phsig.cor_score.tif
+/penguin/yangyanchen/25EQ_myanmar/s1_d106/co/merged/geo_phsig.cor_score_norm_mask.tif
+
  s1_a070 multilook:9*3 √
-![5c9cc77c-487b-4d51-8cc5-0d93edc15e45](https://github.com/user-attachments/assets/ff9617bb-5bcd-444b-821d-b24a810fa957)
+ 
+/penguin/yangyanchen/25EQ_myanmar/s1_a070/co/merged/geo_phsig.cor_score.tif
+/penguin/yangyanchen/25EQ_myanmar/s1_a070/co/merged/geo_phsig.cor_score_norm_mask.tif
 
-![75bb7ebe-55ca-4ed8-bb23-35c8d0d65ffe](https://github.com/user-attachments/assets/aa151b81-76bc-4a38-a171-29a8fd5e2f5f)
-
-Details:/penguin/yangyanchen/25EQ_myanmarDPM.ipynb
+**Details:/penguin/yangyanchen/25EQ_myanmarDPM.ipynb**
 
 
 ### 3. Interseismic deformation via MAI time series [梁存任; old priority]
