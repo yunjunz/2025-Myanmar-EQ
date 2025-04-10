@@ -24,7 +24,7 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 
 #### 1.1 Sentinel-1
 
-+ S1_A143_20250315_20250327_20250408: /home/eedy/penguin/25EQ_myanmar/s1_a143
++ S1_A143_20250315_20250327_20250408: /home/eedy/penguin/25EQ_myanmar/s1_a143 √
 + S1_A070_20250310_20250322_20250403: /home/eedy/penguin/25EQ_myanmar/s1_a070 √
 + S1_D106_20250228_20250324_20250405: /home/eedy/penguin/25EQ_myanmar/s1_d106 √
 + S1_D033_20250307_20250319_20250331: /home/eedy/penguin/25EQ_myanmar/s1_d033 √
