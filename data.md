@@ -44,7 +44,7 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 + LT1_D005_B6_20240623_20240428_20240327
 + LT1_D005_B5_20240615_XXXXXXXX
 + LT1_D005_B4_20250214_20240607_20240420_20240412
-+ LT1_D116_B7_20250206_20250530
++ LT1_D005_B3_20250206_20250530
 
 | LuTan-1 Asc orbits       | LuTan-1 Desc orbits      |
 | --------------------------- | --------------------------- |
