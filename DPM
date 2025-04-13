@@ -1,3 +1,7 @@
+3 SLCs: 2 before EQ, 1 after EQ
+100km buffer distance from the earthquake center and affected fault. bbox in SNWE: 18.55, 22.95, 94.85, 97.05
+
+
 ​​DPM (Damage Proxy Map) Characteristics and Comparisons​​
 ​​Spatial Consistency​​: The high-value zones in ascending/descending DPMs and the EOS DPM (filename: EOS-RS_20250403_DPM_S1_Myanmar_Earthquakes_v0.5.tif) exhibit nearly identical spatial distributions, concentrated along the fault zone and in nearby cities (e.g., Mandalay, Sagaing).
 ​​Noise Differences​​:
