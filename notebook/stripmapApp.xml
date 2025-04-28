@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<insarApp>
+  <component name="insar">
+    <property name="sensor name">LUTAN1</property>
+    <component name="reference">
+        <catalog>reference.xml</catalog>
+    </component>
+    <component name="secondary">
+        <catalog>secondary.xml</catalog>
+    </component>
+    <property name="demFilename">
+	    <value>./slc/dem/elevation.dem</value>
+    </property>
+    <property name="range looks">6</property>
+    <property name="azimuth looks">6</property>
+    <property name="filter strength">0.8</property>
+    <!--<property name="do geocode">False</property>-->
+    <property name="do denseoffsets">True</property>
+    <property name="do split spectrum">True</property>
+    <property name="unwrapper name">snaphu</property>
+    <property name="do dispersive">True</property>
+    <property name="do rubbersheeting azimuth">True</property>
+    <property name="do rubbersheeting range">True</property>
+    <property name="regionOfInterest">[20.5, 23.5, 95, 96.5]</property>
+    <property name="dispersive filter coherence threshold">0.4</property>
+    <!--<property name="dispersive filter mask type">coherence</property>-->
+  </component>
+</insarApp>
