@@ -56,8 +56,7 @@ Extract the co-seismic deformation via InSAR, MAI and speckle-tracking.
 
 + data: https://www.eorc.jaxa.jp/ALOS/jp/library/disaster/dis_myanmar_earthquake_20250409_j.htm
 + data: https://www.eorc.jaxa.jp/ALOS/jp/dataset/open_and_free/palsar2_l11_l22_j.htm#disaster
-+ ALOS2_D041_20250216_20250330: /home/eedy/penguin/25EQ_myanmar/alos2_d041
-+ ALOS2_A151_20250123_20250403: /home/eedy/penguin/25EQ_myanmar/alos2_a151
++ ALOS2_D041_20250216_20250330: /home/eedy/penguin/25EQ_myanmar/ALOS2_D041
 
 #### 1.4 Sentinel-2
 
