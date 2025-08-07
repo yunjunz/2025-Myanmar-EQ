@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alos2App>
+  <component name="alos2insar">
+
+    <property name="reference directory">./SLC/250211</property>
+    <property name="secondary directory">./SLC/250408</property>
+    <property name="reference frames">[0350,0400,0450]</property>
+    <property name="secondary frames">[0350,0400,0450]</property>
+    <property name="starting swath">1</property>
+    <property name="ending swath">5</property>
+    <property name="dem for coregistration">/home/eedy/penguin/25EQ_myanmar/DEM/elevation.dem</property>
+    <property name="dem for geocoding">/home/eedy/penguin/25EQ_myanmar/DEM/elevation.dem</property>
+    <property name="water body">/home/eedy/penguin/25EQ_myanmar/DEM/swbdLat_N16_N24_Lon_E094_E098.wbd</property>
+
+    <property name="do insar">True</property>
+    <property name="use virtual file">True</property>
+    <property name="use GPU">False</property>
+    <property name="number of range looks 1">1</property>
+    <property name="number of range looks 2">5</property>
+    <property name="number of azimuth looks 1">7</property>
+    <property name="number of azimuth looks 2">4</property>
+    <property name="interferogram filter strength">0.8</property>
+    <property name="interferogram filter window size">32</property>
+
+    <!--ionospheric correction-->
+    <property name="do ionospheric phase estimation">True</property>
+    <property name="apply ionospheric phase correction">True</property>
+
+    <!--dense offset-->
+    <property name="do dense offset">False</property>
+    <property name="estimate residual offset after geometrical coregistration">True</property>
+    <property name="do offset filtering">True</property>
+
+  </component>
+</alos2App>
