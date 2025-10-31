@@ -17,3 +17,7 @@ This repo contains notebooks for the coseismic deformation and damage proxy maps
 ### Data ([Zenodo](https://doi.org/10.5281/zenodo.17113310))
 
 The Sentinel-1, LuTan-1 and ALOS-2 SAR data used in the study are provided by ESA, CRESDA and JAXA, respectively. The derived displacement products are available on Zenodo at https://doi.org/10.5281/zenodo.17113310. It includes the following products:
+
++ `3D_DEFO.zip`: Three dimensional deformation estimated from the combination of Sentinel-1, LuTan-1, ALOS-2 and Sentinel-2 satellite.
++ `LOS_DEFO.zip`: Deformation estimated from each of Sentinel-1, LuTan-1, ALOS-2 and Sentinel-2 satellite.
++ `DPM.zip`: Damage proxy maps (DPMs) generated from Sentinel-1.
